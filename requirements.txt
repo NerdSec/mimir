@@ -10,5 +10,5 @@ threatconnect==2.4.21
 maxminddb==1.4.1
 lxml==4.2.6
 colorama==0.4.1
-Pygments==2.3.1
+Pygments==2.7.4
 shodan==1.13.0
